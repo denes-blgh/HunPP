@@ -8,6 +8,6 @@ C++ Hungarian defines for true Scythian chad programmers.
 
 1. Write some painfully unfunny code, then compile it with `gcc` or `clang` (NOTE: I haven't tested and won't test it with MSVC, because Microsoft is evil western spy stuff)
 
-1. If it doesn't compile, check if you were faithful and polite enough in the source code. Try to use `ámen` often at the end of the lines and make sure you use `viszontlátásra` at the end of the file.
+1. If it doesn't compile, check if you were faithful and polite enough in the source code. Try to use `ámen` at least four times at the end of the lines and make sure you use `viszontlátásra` at the end of the file.
 
 Check out `example.cpp` for further guideance (yes it is valid and it should compile).
