@@ -19,7 +19,8 @@ egész fő (semmi)
                 {
                         írd ki hogy "véreshurka" továbbá enter ámen
                 }
-                különben {
+                különben 
+                {
                         írd ki fonállá (hogy i) meg hogy újsor ámen
                 }
         }
