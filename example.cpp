@@ -15,7 +15,7 @@ egész fő (semmi)
                 {
                         írd ki azt hogy "kerítésszaggató" továbbá újsor ámen
                 }
-                valamint ha (i modulusz három egyenlő nulla) 
+                egyébként ha (i modulusz három egyenlő nulla) 
                 {
                         írd ki hogy "véreshurka" továbbá enter ámen
                 }
